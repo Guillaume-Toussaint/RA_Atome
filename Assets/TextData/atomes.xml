@@ -1,0 +1,46 @@
+<atomes>
+
+<atome>
+	<nom> Hydrogène </nom>
+	<num> 1 </num>
+	<masse>1.008</masse> <!-- masse atomique standard (en U)-->
+	<location></location>
+</atome>
+
+<atome>
+	<nom> Oxygène </nom>
+	<num> 8 </num>
+	<masse>15.999</masse>
+	<location></location>
+</atome>
+
+<atome>
+	<nom> Carbone </nom>
+	<num> 6 </num>
+	<masse>12.011</masse>
+	<location></location>
+</atome>
+
+<atome>
+	<nom> Azote </nom>
+	<num> 1 </num>
+	<masse>14.007</masse>
+	<location></location>
+</atome>
+
+
+<atome>
+	<nom> Chlore </nom>
+	<num> 17 </num>
+	<masse>35.45</masse>
+</atome>
+
+
+<atome>
+	<nom> Soufre </nom>
+	<num> 16 </num>
+	<masse>32.06</masse>
+	<location></location>
+</atome>
+
+</atomes>
