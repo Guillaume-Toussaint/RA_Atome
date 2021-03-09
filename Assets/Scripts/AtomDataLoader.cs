@@ -28,7 +28,7 @@ public class AtomDataLoader : MonoBehaviour
                 if((xmlReader.NodeType == XmlNodeType.Element) && (xmlReader.Name == "atome"))
                 {
                     if(xmlReader.HasAttributes)
-                        if(xmlReader.GetAttribute("name") == nomAtome){
+                        if(xmlReader.GetAttribute("nom") == nomAtome){
                             //C'est l'atom dont on récupère les infos
                             return new AtomData(xmlReader.GetAttribute("nom"),Convert.ToDouble(xmlReader.GetAttribute("masse")),xmlReader.GetAttribute("location"));
                         }
