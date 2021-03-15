@@ -21,7 +21,7 @@ public class AtomDataLoader : MonoBehaviour
     }
 
 
-    public static AtomData loadData(string nomAtome){//nomAtome est le nom récupéré depuis le code QR de l'atome
+   /* public static AtomData loadData(string nomAtome){//nomAtome est le nom récupéré depuis le code QR de l'atome
             XmlReader xmlReader = XmlReader.Create("/TextData/atomes.xml");
             while(xmlReader.Read())
             {
@@ -39,6 +39,6 @@ public class AtomDataLoader : MonoBehaviour
         return null;
 
 
-}
+}*/
 
 }
