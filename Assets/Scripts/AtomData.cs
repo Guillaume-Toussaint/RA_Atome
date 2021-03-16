@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class AtomData : MonoBehaviour{
     public string nom;
@@ -14,7 +15,15 @@ public class AtomData : MonoBehaviour{
         this.localisation = loc;
     }*/
 
-    void Start(){}
+    void Start(){
+
+        TextMesh  obj = (TextMesh ) this.transform.GetChild(1).gameObject.GetComponent<TextMesh >();
+        obj.text = this.nom;
+        obj = (TextMesh ) this.transform.GetChild(2).gameObject.GetComponent<TextMesh >();
+        obj.text = "masse : "+this.masse;
+        
+
+    }
 
     void Update(){
 
