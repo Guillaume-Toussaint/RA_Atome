@@ -708,7 +708,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nom: "Oxyg\xE8ne"
   masse: 16
-  localisation: 
+  localisation: On en trouve\n paaaaartout
 --- !u!21 &1455213700
 Material:
   serializedVersion: 6
@@ -1117,7 +1117,6 @@ GameObject:
   - component: {fileID: 1985130579}
   - component: {fileID: 1985130578}
   - component: {fileID: 1985130581}
-  - component: {fileID: 1985130583}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -1214,18 +1213,3 @@ MonoBehaviour:
   uvTileY: 4
   uvTileX: 4
   fps: 30
---- !u!114 &1985130583
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1985130576}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bde1b40d14e4b404ebc441fe1bc0e22c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nom: "Oxyg\xE8ne"
-  masse: 15.999
-  localisation: Test paragraphe loc
