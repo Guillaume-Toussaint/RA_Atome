@@ -326,7 +326,7 @@ TextMesh:
   m_Anchor: 0
   m_Alignment: 0
   m_TabSize: 16
-  m_FontSize: 100
+  m_FontSize: 60
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
@@ -412,7 +412,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 684201435}
-  m_Text: Hello World
+  m_Text: NomAtome
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -1051,7 +1051,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1926587197}
-  m_Text: Hello World
+  m_Text: MasseAtome
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
