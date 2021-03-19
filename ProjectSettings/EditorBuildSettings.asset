@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ScanAtomeIndiv.unity
+    guid: 97e59e4560d29904abc2d443c51838b7
+  - enabled: 1
+    path: Assets/Scenes/Menu principal.unity
+    guid: f9341760844ca9e4fb5d2d3103df84be
   m_configObjects: {}

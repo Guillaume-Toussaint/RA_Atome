@@ -21,7 +21,7 @@ public class AtomData : MonoBehaviour{
         TextMesh  obj = (TextMesh ) this.transform.GetChild(1).gameObject.GetComponent<TextMesh >();
         obj.text = this.nom;
         obj = (TextMesh ) this.transform.GetChild(2).gameObject.GetComponent<TextMesh >();
-        obj.text = "numéro : "+this.num+"\n masse : "+this.masse;
+        obj.text = "numéro : "+this.num+"\n masse : "+this.masse+"u";
         
         obj = (TextMesh ) this.transform.GetChild(3).gameObject.GetComponent<TextMesh >();
         obj.text = this.localisation.Replace("\\n","\n");

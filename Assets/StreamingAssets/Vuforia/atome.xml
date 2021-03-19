@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="soufre_verso" size="840.000000 500.000000" />
+    <ImageTarget name="soufre_recto" size="840.000000 500.000000" />
+    <ImageTarget name="plus" size="840.000000 500.000000" />
+    <ImageTarget name="hydrogene_verso" size="840.000000 500.000000" />
+    <ImageTarget name="hydrogene_recto" size="840.000000 500.000000" />
+    <ImageTarget name="fois" size="840.000000 500.000000" />
+    <ImageTarget name="fleche" size="840.000000 500.000000" />
+    <ImageTarget name="chlore_verso" size="840.000000 500.000000" />
+    <ImageTarget name="chlore_recto" size="840.000000 500.000000" />
+    <ImageTarget name="carbone_verso" size="840.000000 500.000000" />
+    <ImageTarget name="carbone_recto" size="840.000000 500.000000" />
+    <ImageTarget name="azote_verso" size="840.000000 500.000000" />
+    <ImageTarget name="azote_recto" size="840.000000 500.000000" />
+    <ImageTarget name="9" size="840.000000 500.000000" />
+    <ImageTarget name="8" size="840.000000 500.000000" />
+    <ImageTarget name="7" size="840.000000 500.000000" />
+    <ImageTarget name="6" size="840.000000 500.000000" />
+    <ImageTarget name="5" size="840.000000 500.000000" />
+    <ImageTarget name="4" size="840.000000 500.000000" />
+    <ImageTarget name="3" size="840.000000 500.000000" />
+    <ImageTarget name="2" size="840.000000 500.000000" />
+    <ImageTarget name="1" size="840.000000 500.000000" />
     <ImageTarget name="oxygene_verso" size="840.000000 500.000000" />
     <ImageTarget name="oxygene_recto" size="840.000000 500.000000" />
   </Tracking>
